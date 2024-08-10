@@ -1,4 +1,4 @@
-IF-C01COMG Clone board SMD Full size
+IF-C01COMG Clone board SMD Full size_SCART-VGA15kHz
 
 This is a full sized version of the IF-C01COMG board for JVC pro monitors (TM-Hxx50CG) and some others...
 
@@ -16,4 +16,6 @@ You're welcome to clone, sell, re-design and whatever, see LICENSE.
 This work is free. You can redistribute it and/or modify it under the
 terms of the Do What The Fuck You Want To Public License, Version 2,
 as published by Sam Hocevar. See the LICENSE file for more details.
-
+————————————————————————————————————————————————————————————————————
+edit (2024) makotoworkshop.org
+For more informations, see https://burogu.makotoworkshop.org/index.php?post/2024/08/08/jvc-rgb
