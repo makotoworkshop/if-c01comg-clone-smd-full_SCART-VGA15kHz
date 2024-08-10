@@ -1,3 +1,6 @@
 (sym_lib_table
-  (lib (name rgb-board-rescue)(type Legacy)(uri ${KIPRJMOD}/rgb-board-rescue.lib)(options "")(descr ""))
+  (lib (name "HD15_B")(type "KiCad")(uri "${KIPRJMOD}/lib/HD15/HD15_B.kicad_sym")(options "")(descr ""))
+  (lib (name "RCJ-013")(type "KiCad")(uri "${KIPRJMOD}/lib/RCA/RCJ-013/RCJ-013.kicad_sym")(options "")(descr ""))
+  (lib (name "LC2259EENP")(type "KiCad")(uri "${KIPRJMOD}/lib/Switch_LC2259EENP/LC2259EENP/KiCad/LC2259EENP.kicad_sym")(options "")(descr ""))
+  (lib (name "audiojack2_ground_123")(type "KiCad")(uri "${KIPRJMOD}/lib/audiojack2_ground_123.kicad_sym")(options "")(descr ""))
 )
