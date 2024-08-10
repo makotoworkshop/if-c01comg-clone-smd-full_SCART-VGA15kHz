@@ -22,3 +22,9 @@ as published by Sam Hocevar. See the LICENSE file for more details.
 edit (2024) makotoworkshop.org
 
 For more informations, see https://burogu.makotoworkshop.org/index.php?post/2024/08/08/jvc-rgb
+![alt text](png/pcb01.png)
+![alt text](png/pcb02.png)
+![alt text](png/pcb03.png)
+![alt text](png/pcb04.png)
+![alt text](png/pcb05.png)
+![alt text](png/pcb06.png)
