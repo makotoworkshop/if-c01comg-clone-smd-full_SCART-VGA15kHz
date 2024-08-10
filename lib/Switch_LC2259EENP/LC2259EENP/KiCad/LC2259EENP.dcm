@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LC2259EENP
+D PUSHBUTTON, 300mA 30VDC, DPDT On-On, Through Hole, Right Angle PC Pin
+K
+F https://configured-product-images.s3.amazonaws.com/2D/specs/LC2259EENP.pdf
+$ENDCMP
+#
+#End Doc Library
